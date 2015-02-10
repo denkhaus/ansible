@@ -1,0 +1,6 @@
+[submodule "ansible-vagrant"]
+	path = ansible-vagrant
+	url = git@github.com:denkhaus/ansible-vagrant.git
+[submodule "ansible-virtualbox"]
+	path = ansible-virtualbox
+	url = git@github.com:denkhaus/ansible-virtualbox.git
